@@ -15,7 +15,7 @@
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## ⚡ System Prompt: Whoami
+### System Prompt: Whoami
 
 ```json
 {
@@ -29,7 +29,7 @@
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## 🛠️ Tech Stack Architecture
+### Tech Stack Architecture
 
 <div align="center">
   
@@ -68,21 +68,28 @@
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## 🚀 Core Modules (Projects)
+### Core Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔗 **[MergeShip](https://github.com/pavsoss/MergeShip)** | A gamified open-source bridge for contributors to find issues and earn XP. | TypeScript |
-| 🛡️ **[TENET-AI](https://github.com/pavsoss/TENET-AI)** | AI-driven cybersecurity system detecting and defending against modern threats. | TypeScript |
-| 👁️ **[AgentWatch](https://github.com/pavsoss/AgentWatch)** | Real-time reasoning auditor and observability platform for AI agents. | Python |
-| 🔐 **[auth-server](https://github.com/pavsoss/auth-server)** | Production-ready OAuth 2.0 Provider microservice with MFA and RBAC. | Go |
-| 🏥 **[MediFlow](https://github.com/pavsoss/MediFlow)** | AI-powered medical logistics platform for smart resource allocation. | Dart |
+| **[MediFlow](https://github.com/pavsoss/MediFlow)** | AI-powered medical logistics platform for smart resource allocation and distribution. | Dart |
+| **[Safera-App](https://github.com/pavsoss/Safera-App)** | Secure navigation engine prioritizing safety over speed with live scores and SOS protocols. | TypeScript |
 
 <br />
 
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-## 📊 Telemetry & Analytics
+### Activity & Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake-purple.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake-purple.svg">
+  </picture>
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavsoss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=ffffff" alt="GitHub Stats" width="48%" />
@@ -94,16 +101,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavsoss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" alt="Top Languages" width="48%" />
 </div>
-
-<br />
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-## ⚡ Activity Stream
-
-<a href="https://github.com/pavsoss">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavsoss&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=A855F7&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
-</a>
 
 <br />
 
