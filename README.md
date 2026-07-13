@@ -134,7 +134,7 @@ Delhi, India 🇮🇳
 
 
 <div align="center">
-  <img src="./assets/header_opensource.svg" alt="Open Source" width="100%" />
+  <img src="./assets/header_opensource.svg" alt="Top Contributions" width="100%" />
 </div>
 
 <div align="center">
