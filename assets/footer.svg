@@ -1,0 +1,25 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050508" />
+      <stop offset="100%" stop-color="#0a0a0e" />
+    </linearGradient>
+    <linearGradient id="purpleGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#A855F7" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1000" height="120" fill="url(#footer-bg)" />
+  
+  <!-- Cyberwave -->
+  <path d="M 0 60 Q 250 120 500 60 T 1000 60 L 1000 120 L 0 120 Z" fill="#8B5CF6" fill-opacity="0.05" />
+  <path d="M 0 70 Q 250 110 500 70 T 1000 70 L 1000 120 L 0 120 Z" fill="#A855F7" fill-opacity="0.03" />
+  
+  <path d="M 0 58 Q 250 118 500 58 T 1000 58" fill="none" stroke="url(#purpleGlow)" stroke-width="1.5" stroke-opacity="0.5" />
+  
+  <text x="500" y="45" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" fill="#8B5CF6" text-anchor="middle" letter-spacing="4">INITIALIZING THE FUTURE // SECURE CONNECTION ESTABLISHED</text>
+  
+  <circle cx="210" cy="41" r="3" fill="#A855F7" />
+  <circle cx="790" cy="41" r="3" fill="#8B5CF6" />
+</svg>
