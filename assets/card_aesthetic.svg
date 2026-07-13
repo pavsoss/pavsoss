@@ -1,0 +1,32 @@
+<svg width="320" height="180" viewBox="0 0 320 180" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+    @keyframes pulse-stroke { 0%, 100% { stroke: #e9d5ff; } 50% { stroke: #c084fc; } }
+    .card {
+      fill: #ffffff;
+      stroke: #e9d5ff;
+      stroke-width: 1.5;
+      animation: pulse-stroke 6s ease-in-out infinite;
+    }
+    .icon { font-size: 32px; animation: float 4s ease-in-out infinite; }
+    .doodle { font-size: 24px; animation: float 5s ease-in-out infinite reverse; fill: #d8b4fe; font-family: 'Comic Sans MS', cursive; }
+    .title { font-family: 'Segoe UI', -apple-system, sans-serif; font-size: 18px; font-weight: 700; fill: #7e22ce; letter-spacing: 0.5px; }
+    .text { font-family: 'Segoe UI', -apple-system, sans-serif; font-size: 14px; fill: #6b7280; font-weight: 500; }
+  </style>
+
+  <!-- Simulated soft shadow so we don't rely on Github stripping filters -->
+  <rect x="10" y="15" width="300" height="155" rx="16" fill="#7e22ce" fill-opacity="0.05" />
+  
+  <rect class="card" x="10" y="10" width="300" height="155" rx="16" />
+  
+  <text class="icon" x="30" y="55">💜</text>
+  <text class="title" x="75" y="50">Aesthetics</text>
+  
+  <text class="text" x="30" y="90">
+    <tspan x="30" dy="0">Customizing VS Code, GitHub,</tspan>
+    <tspan x="30" dy="22">Notion... because the default</tspan>
+    <tspan x="30" dy="22">theme is never enough.</tspan>
+  </text>
+
+  <text class="doodle" x="270" y="145">→</text>
+</svg>

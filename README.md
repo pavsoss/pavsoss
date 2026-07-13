@@ -192,14 +192,20 @@ Delhi, India 🇮🇳
   <img src="./assets/header_beyond.svg" alt="Beyond Code" width="100%" />
 </div>
 
+<p align="center" style="font-style: italic; color: #7e22ce;">
+  "When I'm not coding..."
+</p>
+
+<br />
+
 <div align="center">
-  <img src="https://img.shields.io/badge/🎨_Aesthetic_Design-f8f4ff?style=for-the-badge&border=b39ddb&labelColor=f8f4ff&color=f8f4ff" />
-  <img src="https://img.shields.io/badge/☕_Coffee_+_Coding-f8f4ff?style=for-the-badge&border=b39ddb&labelColor=f8f4ff&color=f8f4ff" />
-  <img src="https://img.shields.io/badge/🤖_AI_Experiments-f8f4ff?style=for-the-badge&border=f48fb1&labelColor=f8f4ff&color=f8f4ff" />
+  <img src="./assets/card_designing.svg" width="32%" />
+  <img src="./assets/card_learning.svg" width="32%" />
+  <img src="./assets/card_exploring.svg" width="32%" />
   <br />
-  <img src="https://img.shields.io/badge/🌍_Hackathons-f8f4ff?style=for-the-badge&border=b39ddb&labelColor=f8f4ff&color=f8f4ff" />
-  <img src="https://img.shields.io/badge/📚_Engineering_Blogs-f8f4ff?style=for-the-badge&border=b39ddb&labelColor=f8f4ff&color=f8f4ff" />
-  <img src="https://img.shields.io/badge/🎧_Music-f8f4ff?style=for-the-badge&border=f48fb1&labelColor=f8f4ff&color=f8f4ff" />
+  <img src="./assets/card_offline.svg" width="32%" />
+  <img src="./assets/card_building.svg" width="32%" />
+  <img src="./assets/card_aesthetic.svg" width="32%" />
 </div>
 
 <br />
