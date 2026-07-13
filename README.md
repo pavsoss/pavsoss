@@ -131,6 +131,12 @@ Delhi, India 🇮🇳
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pavsoss&repo=MediFlow&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
   </a>
 </div>
+
+
+<div align="center">
+  <img src="./assets/header_opensource.svg" alt="Open Source" width="100%" />
+</div>
+
 <div align="center">
   <a href="https://github.com/pavsoss/AgentWatch">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pavsoss&repo=AgentWatch&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
@@ -138,24 +144,6 @@ Delhi, India 🇮🇳
   <a href="https://github.com/pavsoss/MergeShip">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pavsoss&repo=MergeShip&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./assets/header_opensource.svg" alt="Open Source" width="100%" />
-</div>
-
-<div align="center">
-
-| Timeline | Milestone | Impact |
-| :---: | :--- | :--- |
-| 🌱 | **Started Contributing** | Began actively exploring and improving real production codebases. |
-| 🤝 | **VoidSwift Member** | Joined the core team, contributing to multiple high-impact repositories. |
-| 📦 | **AgentWatch Core** | Improved AI reasoning infrastructure, CI workflows, and backend security. |
-| ✨ | **Feature Development** | Successfully shipped complex features and database migrations for scale. |
-| 🐛 | **Bug Squashing** | Consistently resolving critical issues and performing thorough code reviews. |
-
 </div>
 
 <br />
