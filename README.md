@@ -2,109 +2,36 @@
   <img src="./assets/banner.svg" alt="Paavni profile banner" width="100%" />
 </div>
 
-# Hi, I'm Paavni 👋
-
-Building AI systems, backend infrastructure, and developer tools.
-
-Computer Science (AI) @ IGDTUW • Open Source Contributor • Exploring AI × Backend × Web3
-
-I enjoy building software that solves real problems, whether that's AI-powered applications, developer tooling, backend systems, or full-stack products.
-
-Outside of personal projects, I actively contribute to open source and love understanding how large production codebases are designed.
-
 <br />
 
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-### Currently
-
-- Building AI-powered applications
-- Contributing to open source
-- Learning scalable backend architecture
-- Exploring LLMs, AI agents, and developer tooling
-
-<br />
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-### Things I enjoy building
-
-• AI applications
-• Backend APIs
-• Full-stack web apps
-• Developer tools
-• Automation systems
-• Open-source software
-• Productivity tools
-
-<br />
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-### Tech Stack
+<div align="center">
+  <img src="./assets/header_about.svg" alt="About Me" width="100%" />
+</div>
 
 <table align="center" width="100%">
 <tr>
 <td valign="top" width="50%">
 
-#### Languages
-```text
-Python
-JavaScript
-TypeScript
-C++
-SQL
-Dart
-```
+### 👩‍💻 About Me
 
-#### Frontend
-```text
-React
-Next.js
-Tailwind CSS
-Flutter
-HTML
-CSS
-```
+<br />
 
-#### Backend
-```text
-Node.js
-Express
-Supabase
-REST APIs
-Authentication
-```
+🎓 **Education:** Computer Science (AI) @ IGDTUW  
+🌍 **Location:** India  
+🔬 **Research:** Exploring LLMs & Scalable Architectures  
+🤝 **Community:** Core Member @ VoidSwift  
 
 </td>
 <td valign="top" width="50%">
 
-#### AI
-```text
-PyTorch
-YOLO
-OpenCV
-LLMs
-Prompt Engineering
-Computer Vision
-```
+### 🚀 Current Focus
 
-#### Database
-```text
-PostgreSQL
-Firebase
-Supabase
-Prisma
-Drizzle ORM
-```
+<br />
 
-#### Tools
-```text
-Git
-GitHub
-Docker
-VS Code
-```
+⚡ Building AI-powered applications  
+⚙️ Designing scalable backend systems  
+🛠️ Creating developer productivity tools  
+🌐 Exploring Web3 infrastructure  
 
 </td>
 </tr>
@@ -112,123 +39,153 @@ VS Code
 
 <br />
 
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-### Featured Projects
-
-<br />
-
-### Safera
-> AI-assisted safety navigation application focused on safer route recommendations and emergency features.
+<div align="center">
+  <img src="./assets/header_tech.svg" alt="Tech Stack" width="100%" />
+</div>
 
 <br />
-
-### MediFlow
-> AI-powered healthcare workflow platform integrating intelligent document processing and modern backend architecture.
-
-<br />
-
-### Blackjack
-> Python implementation of Blackjack with a clean object-oriented architecture.
-
-<br />
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-### Open Source
-
-I enjoy contributing to projects where I can improve real production software. I am also a member of **VoidSwift**.
-
-Contributions include:
-- Backend engineering
-- Bug fixes
-- Feature development
-- Security improvements
-- CI/CD
-- Documentation
-- Database migrations
-- Code reviews
-
-<br />
-
-### AgentWatch Contributions
-> Contributed to AI-agent reasoning infrastructure, backend improvements, security enhancements, CI workflows, and production engineering.
-
-<br />
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-### GitHub Activity
 
 <div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,mysql,dart&theme=dark" />
+
+<br />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css&theme=dark" />
+
+<br />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase&theme=dark" />
+
+<br />
+
+### AI & Data
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres,prisma,mongodb&theme=dark" />
+
+<br />
+
+### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,linux&theme=dark" />
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/header_projects.svg" alt="Featured Projects" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/pavsoss/Safera-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavsoss&repo=Safera-App&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/pavsoss/MediFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavsoss&repo=MediFlow&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/pavsoss/AgentWatch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavsoss&repo=AgentWatch&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/pavsoss/MergeShip">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavsoss&repo=MergeShip&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/header_opensource.svg" alt="Open Source" width="100%" />
+</div>
+
+<div align="center">
+
+| Timeline | Milestone | Impact |
+| :---: | :--- | :--- |
+| 🌱 | **Started Contributing** | Began actively exploring and improving real production codebases. |
+| 🤝 | **VoidSwift Member** | Joined the core team, contributing to multiple high-impact repositories. |
+| 📦 | **AgentWatch Core** | Improved AI reasoning infrastructure, CI workflows, and backend security. |
+| ✨ | **Feature Development** | Successfully shipped complex features and database migrations for scale. |
+| 🐛 | **Bug Squashing** | Consistently resolving critical issues and performing thorough code reviews. |
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/header_stats.svg" alt="GitHub Analytics" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavsoss&show_icons=true&theme=radical&hide_border=true&bg_color=f8f4ff&title_color=7e22ce&icon_color=f48fb1&text_color=4c1d95" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavsoss&theme=radical&hide_border=true&background=f8f4ff&ring=b39ddb&fire=f48fb1&currStreakNum=7e22ce&sideNums=4c1d95&currStreakLabel=b39ddb&sideLabels=b39ddb&dates=4c1d95" alt="GitHub Streak" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavsoss&layout=compact&theme=radical&hide_border=true&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95" alt="Top Languages" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake-purple.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake-purple.svg" width="48%" onerror="this.style.display='none'">
+  </picture>
+</div>
+
+<br />
+
+<a href="https://github.com/pavsoss">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavsoss&theme=react-dark&bg_color=f8f4ff&color=7e22ce&line=b39ddb&point=f48fb1&hide_border=true" alt="Activity Graph" width="100%" />
+</a>
+
+<br />
+
+<div align="center">
+  <!-- 3D Graph -->
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contributions" onerror="this.style.display='none'"/>
 </div>
 
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake-purple.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake-purple.svg" onerror="this.style.display='none'">
-  </picture>
+  <img src="./assets/header_beyond.svg" alt="Beyond Code" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎨_Aesthetic_Design-f8f4ff?style=for-the-badge&border=b39ddb&labelColor=f8f4ff&color=f8f4ff" />
+  <img src="https://img.shields.io/badge/☕_Coffee_+_Coding-f8f4ff?style=for-the-badge&border=b39ddb&labelColor=f8f4ff&color=f8f4ff" />
+  <img src="https://img.shields.io/badge/🤖_AI_Experiments-f8f4ff?style=for-the-badge&border=f48fb1&labelColor=f8f4ff&color=f8f4ff" />
+  <br />
+  <img src="https://img.shields.io/badge/🌍_Hackathons-f8f4ff?style=for-the-badge&border=b39ddb&labelColor=f8f4ff&color=f8f4ff" />
+  <img src="https://img.shields.io/badge/📚_Engineering_Blogs-f8f4ff?style=for-the-badge&border=b39ddb&labelColor=f8f4ff&color=f8f4ff" />
+  <img src="https://img.shields.io/badge/🎧_Music-f8f4ff?style=for-the-badge&border=f48fb1&labelColor=f8f4ff&color=f8f4ff" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavsoss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavsoss&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=ffffff" alt="GitHub Streak" width="48%" />
+  <img src="./assets/header_connect.svg" alt="Connect" width="100%" />
 </div>
 
 <br />
 
-<a href="https://github.com/pavsoss">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavsoss&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=A855F7&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
-</a>
-
-<br />
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-### Currently Learning
-
-- Large Language Models
-- AI Agents
-- Distributed Systems
-- System Design
-- Scalable Backend Engineering
-- Web3 Infrastructure
-
-<br />
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
-### Beyond the Terminal
-
-When I'm not coding, I'm probably...
-
-- 🌸 Personalizing something that didn't need personalizing (VS Code, GitHub, Notion—you name it)
-- ☕ Deep-diving into engineering videos or reading about how cool systems are built
-- 🎨 Tweaking UI until it *feels* right
-- 🌱 Exploring new AI tools and building random weekend experiments
-- 🎸 Playing guitar, journaling, sketching ideas, or planning my next project
-
-<br />
-
-<img src="./assets/divider.svg" alt="divider" width="100%" />
-
 <div align="center">
-
-<a href="https://github.com/pavsoss">
-<img src="https://img.shields.io/badge/GitHub-Follow-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/pavsoss/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://github.com/pavsoss">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&border=C084FC"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pavsoss/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&border=2dd4bf"/>
+  </a>
+  <a href="mailto:pavsafterdark@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f472b6&border=f472b6"/>
+  </a>
+</div>
 
 <br /><br />
 
-<img src="./assets/footer.svg" alt="footer" width="100%" />
+<div align="center">
+  <img src="./assets/footer.svg" alt="footer" width="100%" />
 </div>

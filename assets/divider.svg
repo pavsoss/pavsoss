@@ -1,32 +1,13 @@
 <svg width="1000" height="40" viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes slide {
-      0% { stroke-dashoffset: 200; }
-      100% { stroke-dashoffset: 0; }
-    }
-    @keyframes glow {
-      0%, 100% { fill-opacity: 0.5; r: 3; }
-      50% { fill-opacity: 1; r: 5; }
-    }
-    .line-flow {
-      stroke-dasharray: 200;
-      animation: slide 5s linear infinite;
-    }
-    .glowing-dot {
-      animation: glow 3s ease-in-out infinite;
-    }
-  </style>
   <defs>
     <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0" />
-      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#A855F7" stop-opacity="0" />
+      <stop offset="0%" stop-color="#b39ddb" stop-opacity="0" />
+      <stop offset="50%" stop-color="#b39ddb" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#f48fb1" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <!-- Animated line -->
-  <line x1="0" y1="19.5" x2="1000" y2="19.5" stroke="url(#line)" stroke-width="2" class="line-flow" />
-  
-  <circle class="glowing-dot" cx="500" cy="19.5" r="4" fill="#A855F7" />
-  <circle cx="480" cy="19.5" r="2" fill="#8B5CF6" />
-  <circle cx="520" cy="19.5" r="2" fill="#8B5CF6" />
+  <line x1="0" y1="19.5" x2="1000" y2="19.5" stroke="url(#line)" stroke-width="2" />
+  <path d="M 500 12 L 503 18 L 510 18 L 504 22 L 506 28 L 500 24 L 494 28 L 496 22 L 490 18 L 497 18 Z" fill="#ffffff" stroke="#b39ddb" stroke-width="1" />
+  <circle cx="480" cy="19.5" r="2" fill="#f48fb1" />
+  <circle cx="520" cy="19.5" r="2" fill="#f48fb1" />
 </svg>

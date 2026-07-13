@@ -1,0 +1,12 @@
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b39ddb" />
+      <stop offset="100%" stop-color="#f48fb1" />
+    </linearGradient>
+  </defs>
+  <!-- Star icon -->
+  <path d="M 30 20 L 33 30 L 44 30 L 35 37 L 38 48 L 30 42 L 22 48 L 25 37 L 16 30 L 27 30 Z" fill="url(#grad)" />
+  <text x="60" y="38" font-family="'Segoe UI', -apple-system, sans-serif" font-size="24" font-weight="700" fill="#7e22ce" letter-spacing="3">CURRENT FOCUS</text>
+  <path d="M 288 30 L 800 30" fill="none" stroke="#b39ddb" stroke-width="2" stroke-opacity="0.5" stroke-dasharray="6 6" stroke-linecap="round" />
+</svg>
