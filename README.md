@@ -45,32 +45,35 @@
 
 <br />
 
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,mysql,dart&theme=dark" />
-
-<br />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css&theme=dark" />
-
-<br />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase&theme=dark" />
-
-<br />
-
-### AI & Data
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres,prisma,mongodb&theme=dark" />
-
-<br />
-
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,linux&theme=dark" />
-
-</div>
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,mysql,dart&theme=dark" />
+</td>
+<td align="center" width="33%">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css&theme=dark" />
+</td>
+<td align="center" width="33%">
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <h3>AI & Data</h3>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres,prisma,mongodb&theme=dark" />
+</td>
+<td align="center" width="33%">
+  <h3>Tools & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,linux&theme=dark" />
+</td>
+<td align="center" width="33%">
+  <!-- Empty -->
+</td>
+</tr>
+</table>
 
 <br />
 
@@ -80,18 +83,18 @@
 
 <div align="center">
   <a href="https://github.com/pavsoss/Safera-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavsoss&repo=Safera-App&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pavsoss&repo=Safera-App&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/pavsoss/MediFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavsoss&repo=MediFlow&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pavsoss&repo=MediFlow&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/pavsoss/AgentWatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavsoss&repo=AgentWatch&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pavsoss&repo=AgentWatch&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/pavsoss/MergeShip">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavsoss&repo=MergeShip&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pavsoss&repo=MergeShip&theme=radical&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95&icon_color=f48fb1&hide_border=true" width="48%" />
   </a>
 </div>
 
@@ -120,18 +123,23 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavsoss&show_icons=true&theme=radical&hide_border=true&bg_color=f8f4ff&title_color=7e22ce&icon_color=f48fb1&text_color=4c1d95" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavsoss&theme=radical&hide_border=true&background=f8f4ff&ring=b39ddb&fire=f48fb1&currStreakNum=7e22ce&sideNums=4c1d95&currStreakLabel=b39ddb&sideLabels=b39ddb&dates=4c1d95" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pavsoss&show_icons=true&theme=radical&hide_border=true&bg_color=f8f4ff&title_color=7e22ce&icon_color=f48fb1&text_color=4c1d95" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavsoss&layout=compact&theme=radical&hide_border=true&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95" alt="Top Languages" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavsoss&layout=compact&theme=radical&hide_border=true&bg_color=f8f4ff&title_color=7e22ce&text_color=4c1d95" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavsoss&theme=radical&hide_border=true&background=f8f4ff&ring=b39ddb&fire=f48fb1&currStreakNum=7e22ce&sideNums=4c1d95&currStreakLabel=b39ddb&sideLabels=b39ddb&dates=4c1d95" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake-purple.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake-purple.svg" width="48%" onerror="this.style.display='none'">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pavsoss/pavsoss/output/github-contribution-grid-snake-purple.svg" width="100%" onerror="this.style.display='none'">
   </picture>
 </div>
 
@@ -174,13 +182,13 @@
 
 <div align="center">
   <a href="https://github.com/pavsoss">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&border=C084FC"/>
+    <img src="https://img.shields.io/badge/GitHub-f8f4ff?style=for-the-badge&logo=github&logoColor=white&border=C084FC"/>
   </a>
   <a href="https://www.linkedin.com/in/pavsoss/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&border=2dd4bf"/>
+    <img src="https://img.shields.io/badge/LinkedIn-f8f4ff?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&border=2dd4bf"/>
   </a>
   <a href="mailto:pavsafterdark@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f472b6&border=f472b6"/>
+    <img src="https://img.shields.io/badge/Email-f8f4ff?style=for-the-badge&logo=gmail&logoColor=f472b6&border=f472b6"/>
   </a>
 </div>
 

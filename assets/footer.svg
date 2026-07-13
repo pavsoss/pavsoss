@@ -1,8 +1,11 @@
 <svg width="1000" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @keyframes wave { 0%, 100% { transform: translateY(0) scaleY(1); } 50% { transform: translateY(8px) scaleY(1.05); } }
-    .wave-1 { animation: wave 6s ease-in-out infinite; transform-origin: bottom; }
-    .wave-2 { animation: wave 8s ease-in-out infinite reverse; transform-origin: bottom; }
+    @keyframes wave1 { 0%, 100% { transform: translateY(0) scaleY(1); } 50% { transform: translateY(12px) scaleY(1.08); } }
+    @keyframes wave2 { 0%, 100% { transform: translateY(5px) scaleY(1.03); } 50% { transform: translateY(-5px) scaleY(0.98); } }
+    @keyframes wave3 { 0%, 100% { transform: translateY(8px) scaleY(1.05); } 50% { transform: translateY(0px) scaleY(1); } }
+    .wave-1 { animation: wave1 3s ease-in-out infinite; transform-origin: bottom; }
+    .wave-2 { animation: wave2 4s ease-in-out infinite; transform-origin: bottom; }
+    .wave-3 { animation: wave3 5s ease-in-out infinite; transform-origin: bottom; }
   </style>
   <defs>
     <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -17,10 +20,15 @@
   
   <rect width="1000" height="150" fill="url(#footer-bg)" />
   
-  <!-- Animated bouncing waves -->
+  <!-- Animated fast bouncing waves -->
+  <!-- wave-1 dips down on the left, arches up on the right -->
   <path class="wave-1" d="M 0 80 Q 250 150 500 80 T 1000 80 L 1000 150 L 0 150 Z" fill="#b39ddb" fill-opacity="0.25" />
-  <path class="wave-2" d="M 0 90 Q 250 130 500 90 T 1000 90 L 1000 150 L 0 150 Z" fill="#f48fb1" fill-opacity="0.2" />
-  <path class="wave-1" d="M 0 78 Q 250 148 500 78 T 1000 78" fill="none" stroke="url(#purpleGlow)" stroke-width="2" stroke-opacity="0.7" />
+  
+  <!-- wave-2 arches up on the left, dips down on the right (making it wide on the opposite side) -->
+  <path class="wave-2" d="M 0 90 Q 250 20 500 90 T 1000 90 L 1000 150 L 0 150 Z" fill="#f48fb1" fill-opacity="0.2" />
+  
+  <!-- wave-3 (the stroke) dips down on the left -->
+  <path class="wave-3" d="M 0 78 Q 250 148 500 78 T 1000 78" fill="none" stroke="url(#purpleGlow)" stroke-width="2" stroke-opacity="0.7" />
   
   <text x="500" y="60" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="600" fill="#7e22ce" text-anchor="middle" letter-spacing="4">THANKS FOR STOPPING BY ✨</text>
 </svg>
