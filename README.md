@@ -5,6 +5,22 @@
 <br />
 
 <div align="center">
+  <i>"Code, purple aesthetics, playlists on repeat, and the excitement of watching an idea slowly come to life."</i>
+</div>
+
+<br />
+
+<div align="center">
+
+| 🚀 Open Source | 💻 Building | 🌱 Currently | 📍 Based In |
+| :---: | :---: | :---: | :---: |
+| Active Contributor | AI • Backend • Full Stack | Learning System Design | Delhi, India 🇮🇳 |
+
+</div>
+
+<br />
+
+<div align="center">
   <img src="./assets/header_about.svg" alt="About Me" width="100%" />
 </div>
 
@@ -14,24 +30,50 @@
 
 ### 👩‍💻 About Me
 
+I'm a Computer Science (AI) undergraduate who loves turning ideas into products that people actually enjoy using.
+
+Most of my time goes into building AI-powered applications, backend systems, and developer tools, while contributing to open source and learning from real-world codebases.
+
+I'm especially interested in the intersection of AI, scalable engineering, and thoughtful design—building software that's both useful and enjoyable to use.
+
 <br />
 
-🎓 **Education:** Computer Science (AI) @ IGDTUW  
-🌍 **Location:** India  
-🔬 **Research:** Exploring LLMs & Scalable Architectures  
-🤝 **Community:** Core Member @ VoidSwift  
+<img src="https://img.shields.io/badge/🧠_Problem_Solver-f8f4ff?style=flat-square&border=b39ddb&labelColor=f8f4ff&color=f8f4ff" /> 
+<img src="https://img.shields.io/badge/🚀_Fast_Learner-f8f4ff?style=flat-square&border=f48fb1&labelColor=f8f4ff&color=f8f4ff" /> 
+<img src="https://img.shields.io/badge/☕_Always_Building-f8f4ff?style=flat-square&border=b39ddb&labelColor=f8f4ff&color=f8f4ff" />
+
+<br /><br />
+
+### 🎓 Education
+
+**Computer Science (AI)**  
+IGDTUW '29  
+Delhi, India 🇮🇳
 
 </td>
 <td valign="top" width="50%">
 
 ### 🚀 Current Focus
 
+⚡ **Building** AI applications that solve real-world problems  
 <br />
+🛠 **Contributing** to production open-source projects  
+<br />
+📦 **Learning** scalable backend architecture & system design  
+<br />
+🤖 **Exploring** LLMs, AI agents, and automation workflows  
+<br />
+🌐 **Experimenting** with Web3 and developer tooling  
 
-⚡ Building AI-powered applications  
-⚙️ Designing scalable backend systems  
-🛠️ Creating developer productivity tools  
-🌐 Exploring Web3 infrastructure  
+<br /><br />
+
+### 🤝 Community
+
+**Core Member** • VoidSwift  
+<br />
+**Open Source Contributor**  
+<br />
+**Hackathon Builder**
 
 </td>
 </tr>
@@ -184,7 +226,7 @@
   <a href="https://github.com/pavsoss">
     <img src="https://img.shields.io/badge/GitHub-f8f4ff?style=for-the-badge&logo=github&logoColor=white&border=C084FC"/>
   </a>
-  <a href="https://www.linkedin.com/in/pavsoss/">
+  <a href="https://www.linkedin.com/in/paavni-bansal/">
     <img src="https://img.shields.io/badge/LinkedIn-f8f4ff?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&border=2dd4bf"/>
   </a>
   <a href="mailto:pavsafterdark@gmail.com">
